@@ -1,0 +1,11 @@
+[project]
+name = "swiss-epost-mcp"
+version = "0.1.0"
+description = "MCP server for Swiss Post digital letterbox (ePost) via the Klara API"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.5.0",
+    "httpx>=0.27",
+    "pymupdf>=1.25",
+    "pyyaml>=6.0",
+]
