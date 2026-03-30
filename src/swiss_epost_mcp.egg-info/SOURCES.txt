@@ -1,9 +1,0 @@
-pyproject.toml
-src/__init__.py
-src/auth.py
-src/server.py
-src/swiss_epost_mcp.egg-info/PKG-INFO
-src/swiss_epost_mcp.egg-info/SOURCES.txt
-src/swiss_epost_mcp.egg-info/dependency_links.txt
-src/swiss_epost_mcp.egg-info/requires.txt
-src/swiss_epost_mcp.egg-info/top_level.txt
