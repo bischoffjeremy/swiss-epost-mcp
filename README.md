@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Swiss ePost MCP" width="200">
+  <img src="logo.png" alt="Swiss ePost MCP" width="800">
 </p>
 
 # Swiss ePost MCP Server
