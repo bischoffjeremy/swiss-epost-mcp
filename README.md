@@ -4,7 +4,7 @@
 
 # Swiss ePost MCP Server
 
-MCP server for the Swiss Post digital letterbox (ePost) via the [Klara API](https://api.klara.ch/docs). Built with [FastMCP](https://gofastmcp.com/) and auto-generated from the official OpenAPI specification.
+MCP server for the Swiss Post digital letterbox (ePost) via the [Klara API](https://api.klara.ch/docs).
 
 Allows AI agents to read, search, manage, and send digital letters through your Swiss ePost account.
 
